@@ -1,5 +1,5 @@
-# Stationery-refund-Agent
-An AI refund agent for stationery stores, built with LangChain and LangGraph. It checks purchases, applies the 30-day refund policy, works out the refund and issues a ticket. It’s tested with DeepEval and got 100% accuracy across 7 test scenarios.
+# Stationary-refund-Agent
+An AI refund agent for stationary stores, built with LangChain and LangGraph. It checks purchases, applies the 30-day refund policy, works out the refund and issues a ticket. It’s tested with DeepEval and got 100% accuracy across 7 test scenarios.
 
 ## Overview
 The Stationary Refund Agent is an intelligent, LangChain-powered conversational AI system designed to automate and streamline the stationary product refund process. Built with LangGraph and integrated with DeepEval for comprehensive performance monitoring, this agent handles customer refund requests with high accuracy and reliability.
